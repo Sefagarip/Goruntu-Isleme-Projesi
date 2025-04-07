@@ -1,4 +1,4 @@
-# Image Processing Interface - Görüntü İşleme Arayüzü
+# Image Processing Interface - Görüntü İşleme Arayüzü 
 
 📌 Read this in: [English](#description) | [Türkçe](#açıklama)
 
